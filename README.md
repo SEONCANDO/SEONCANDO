@@ -1,4 +1,12 @@
-### Hi there 👋
+<!--
+<div align="center">
+  
+</div>
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=twinkling&text=SEONCANDO!&height=240&fontAlignY=40)
+
+### Hi I'm Seon! 👋
 
 <!--
 **SEONCANDO/SEONCANDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
