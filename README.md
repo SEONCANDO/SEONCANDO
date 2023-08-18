@@ -4,7 +4,7 @@
 </div>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=twinkling&text=SEONCANDO!&height=240&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=twinkling&text=SEON%20CAN%20DO!&height=240&fontAlignY=40)
 
 ### Hi I'm Seon! 👋
 
