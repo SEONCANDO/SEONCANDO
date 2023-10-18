@@ -1,12 +1,9 @@
-<!--
-<div align="center">
-  
-</div>
--->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=twinkling&text=SEON%20CAN%20DO!&height=240&fontAlignY=40)
 
-### Hi I'm Seon! 👋
+### Hi, I'm Seon! 👋
+
+<div><h3>Skills</h3>
 <details>
 <summary>📚 공부 진행중인 것들</summary>
 <br>
@@ -54,6 +51,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 </details>
+</div>
 </div>
 
 
